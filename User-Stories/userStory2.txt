@@ -1,0 +1,9 @@
+Als Scrum-Master in meinem Team benötige ich eine Echtzeit-Kollaborationsfunktion
+auf dem Whiteboard, um effektiv mit meinen Kollegen zusammenzuarbeiten.
+Diese Funktion sollte es mehreren Benutzern ermöglichen,
+gleichzeitig auf dem Whiteboard zu arbeiten und Änderungen in Echtzeit zu sehen.
+Durch die Nutzung dieser Echtzeit-Kollaborationsfunktion erhoffe ich mir eine schnellere
+und effektivere Zusammenarbeit innerhalb unseres Teams.
+Wir sollten in der Lage sein, gemeinsam an Projekten zu arbeiten,
+Ideen zu brainstormen und Entscheidungen zu treffen,
+ohne dass wir uns auf physische Meetings oder unzählige E-Mails und Nachrichten verlassen müssen.

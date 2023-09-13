@@ -1,0 +1,5 @@
+Als Nutzer ist es mir wichtig, dass ich das Whiteboard einfach und nahtlos in meine bevorzugten Anwendungen und Tools wie Dropbox,
+Google Drive, Slack oder Trello integrieren kann. Das erleichtert meine Arbeit und verbessert meine Arbeitsabläufe.
+Es sollte möglich sein, Daten von anderen Anwendungen und Tools in das Whiteboard zu importieren oder von dem Whiteboard 
+in andere Anwendungen und Tools zu exportieren, um meine Arbeit effektiver zu gestalten. Eine reibungslose Integration mit anderen 
+Anwendungen und Tools ist entscheidend für die Benutzerfreundlichkeit des Whiteboards.

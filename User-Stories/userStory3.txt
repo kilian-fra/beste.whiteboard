@@ -1,0 +1,8 @@
+Als Lehrender möchte ich für den Online-Unterricht eine Chatfunktion haben,
+die es mir und meinen Schülern ermöglicht, während unserer Zusammenarbeit zu kommunizieren.
+Ich möchte in der Lage sein, Fragen zu beantworten, Feedback zu geben und Diskussionen zu moderieren,
+um sicherzustellen, dass jeder Schüler versteht, was wir gerade bearbeiten.
+Ich möchte auch die Möglichkeit haben, private Nachrichten an einzelne Schüler zu senden,
+um individuelle Fragen oder Bedenken zu besprechen.
+Die Chatfunktion sollte einfach zu bedienen und übersichtlich sein,
+um eine effektive Zusammenarbeit zu ermöglichen.

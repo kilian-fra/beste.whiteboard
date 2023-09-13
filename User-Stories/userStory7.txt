@@ -1,0 +1,8 @@
+Als Benutzer des kollaborativen Online-Whiteboards möchte ich die Möglichkeit haben, den Zugriff auf
+das Whiteboard zu kontrollieren, um die Sicherheit meiner Daten und die meiner Teammitglieder zu
+gewährleisten.
+
+Ich möchte eine Möglichkeit haben, Teams zu erstellen und ihre Rechte zu verwalten. Damit ich steuern
+kann wer auf das Whiteboard zugreift. Ich möchte außerdem die möglichkeit haben Benuter einzuladen und 
+sie den Teams zuzuordnen. Zusätzlich benötige ich die funktion den Zugriff aufs Whiteboard zu 
+wiederrufen und Benutzer aus Teams auszuschließen.

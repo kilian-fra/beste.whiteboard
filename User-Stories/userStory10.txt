@@ -1,0 +1,5 @@
+Für mich als Nutzer ist es wichtig, dass meine Arbeit auf dem Whiteboard sicher und geschützt ist. Ich möchte sicherstellen, dass das 
+Whiteboard eine SSL-Verschlüsselung verwendet, um die Übertragung von Daten zwischen meinem Computer und dem Whiteboard zu sichern. 
+Eine sichere Benutzerauthentifizierung und Autorisierung sind ebenfalls ein Muss, um sicherzustellen, dass nur autorisierte Benutzer 
+auf das Whiteboard zugreifen können. Regelmäßige Sicherheitsupdates sind unverzichtbar, um sicherzustellen, dass die Plattform sicher 
+und geschützt bleibt und meine Daten und Informationen nicht gefährdet werden.

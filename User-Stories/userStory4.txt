@@ -1,0 +1,6 @@
+Als Projektmanager in einem Softwareunternehmen möchte ich die Möglichkeit haben,
+das Whiteboard zu speichern und später wieder aufzurufen,
+um den Fortschritt des Projekts zu verfolgen und Änderungen zu überprüfen.
+Das Whiteboard wird von meinem Team genutzt, um Ideen, Anforderungen und Aufgaben zu visualisieren und zu planen.
+Indem ich das Whiteboard speichern und später wieder aufrufen kann, kann ich sicherstellen,
+dass ich alle wichtigen Details im Blick habe und gegebenenfalls Anpassungen vornehmen kann.

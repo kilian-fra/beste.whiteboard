@@ -1,0 +1,3 @@
+ Als User möchte ich jederzeit auf das Online Whiteboard-System zugreifen können, 
+ damit ich unabhängig von Zeit und Ort meine Zusammenarbeit mit anderen Nutzern fortsetzen kann. 
+ Die hohe Verfügbarkeit des Systems sollte sicherstellen, dass ich keine Arbeitsunterbrechungen oder Verzögerungen erlebe.

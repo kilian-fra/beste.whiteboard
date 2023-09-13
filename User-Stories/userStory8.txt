@@ -1,0 +1,9 @@
+Als neuer Benutzer des Online-Whiteboards möchte ich, das die Benutzeroberfläche einfach und intuitiv 
+ist, damit ich mich schnell an die Arbeit gewöhnen kann und das Whiteboard effektiv nutzen kann. Es 
+sollte einfach sein neuen Content erstellen können sowie vorhandenen einfach bearbeiten. Ich möchte 
+mich einfach durch das Board navigieren können und schnell finden, wonach ich suche.
+
+Es sollte einfach sein, Texte, Bilder oder Zeichnungen zu erstellen und sie an der gewünschten Stelle 
+zu platzieren. Wenn ich Fehler mache oder etwas ändern möchte, sollte das auch schnell und einfach 
+möglich sein. Das Whiteboard sollte sowohl alleine als auch in Zusammenarbeit mit anderen mir die 
+möglichkeit geben effektiv und einfach zu arbeiten.

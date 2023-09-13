@@ -1,0 +1,8 @@
+Als Studierender an einer Hochschule möchte ich das Whiteboard freigeben können,
+damit andere Benutzer Feedback und Kommentare geben können.
+Wenn ich beispielsweise an einem Gruppenprojekt arbeite, möchte ich das Whiteboard freigeben können,
+um meinen Gruppenmitgliedern die Möglichkeit zu geben, ihre Ideen und Anmerkungen direkt auf dem Whiteboard zu teilen.
+Die Freigabeoption sollte einfach zu finden und zu bedienen sein,
+damit ich schnell und unkompliziert Feedback erhalten kann.
+Außerdem sollte ich die Freigabeoption jederzeit beenden oder einschränken können,
+um meine Privatsphäre und meine Arbeit zu schützen. 
